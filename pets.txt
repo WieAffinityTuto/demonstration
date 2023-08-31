@@ -1,4 +1,4 @@
-dog
+dog 100$
 cat
 bat
 alegator
